@@ -10,7 +10,7 @@
 
 ## 1. Introduction
 
- [In this work](https://github.com/UrkoRegueiro/Machine_Learning_Projects/blob/main/Supervised_Learning_Projects/3-%20Cardiovascular_Disease_Prediction/cardiovascular_disease_prediction-GIT.ipynb) we analyze and explore a dataset on cardiovascular disease. The purpose of this project is to predict whether or not a pacient has cardiovascular disease.
+ [In this work](https://github.com/UrkoRegueiro/Cardiovascular_Disease_Prediction/blob/main/cardiovascular_disease_prediction-GIT.ipynb) we analyze and explore a dataset on cardiovascular disease. The purpose of this project is to predict whether or not a pacient has cardiovascular disease.
 
 Data set link: [Cardiovascular Disease dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
 
@@ -50,13 +50,13 @@ We didn't find duplicates in the dataset.
 We observed potential outliers in the maximum values of some variables:
 
 #### 2.2.1. "ap_hi" Column
-![](https://raw.githubusercontent.com/UrkoRegueiro/Machine_Learning_Projects/main/Supervised_Learning_Projects/3-%20Cardiovascular_Disease_Prediction/ap_hi.png)
+![](https://github.com/UrkoRegueiro/Cardiovascular_Disease_Prediction/blob/main/images/ap_hi.png)
 #### 2.2.2. "ap_lo" Column
-![](https://raw.githubusercontent.com/UrkoRegueiro/Machine_Learning_Projects/main/Supervised_Learning_Projects/3-%20Cardiovascular_Disease_Prediction/ap_lo.png)
+![](https://github.com/UrkoRegueiro/Cardiovascular_Disease_Prediction/blob/main/images/ap_lo.png)
 #### 2.2.3. "height" Column
-![](https://raw.githubusercontent.com/UrkoRegueiro/Machine_Learning_Projects/main/Supervised_Learning_Projects/3-%20Cardiovascular_Disease_Prediction/height.png)
+![](https://github.com/UrkoRegueiro/Cardiovascular_Disease_Prediction/blob/main/images/height.png)
 #### 2.2.4. "weight" Column
-![](https://raw.githubusercontent.com/UrkoRegueiro/Machine_Learning_Projects/main/Supervised_Learning_Projects/3-%20Cardiovascular_Disease_Prediction/weight.png)
+![](https://github.com/UrkoRegueiro/Cardiovascular_Disease_Prediction/blob/main/images/weight.png)
 
 ------------
 
@@ -147,7 +147,7 @@ The performance of models in Section 4 was:
 
 ### 5.1. Gradient Boosting Classifier - Best performance
 
-![](https://raw.githubusercontent.com/UrkoRegueiro/Machine_Learning_Projects/main/Supervised_Learning_Projects/3-%20Cardiovascular_Disease_Prediction/cm.png)
+![](https://github.com/UrkoRegueiro/Cardiovascular_Disease_Prediction/blob/main/images/cm.png)
 
 <h5 align="center">
 
